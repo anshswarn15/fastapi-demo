@@ -1,0 +1,7 @@
+name: fastapi-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - fastapi
+  - uvicorn
